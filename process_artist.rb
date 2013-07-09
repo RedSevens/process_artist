@@ -3,6 +3,7 @@ require 'ruby-processing'
 #  - Changing color from screen
 #  - Scale the height and width according to screen size
 
+# Testing commiting for ruby processing
 
 # ====================================
 # || Instance Variable Descriptions: ||
