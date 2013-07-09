@@ -4,7 +4,6 @@ require 'ruby-processing'
 #  - Scale the height and width according to screen size
 
 # Testing commiting for ruby processing
-# Test #2 for pushing things to github
 
 # ====================================
 # || Instance Variable Descriptions: ||
